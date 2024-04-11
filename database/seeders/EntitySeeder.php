@@ -17,9 +17,9 @@ class EntitySeeder extends Seeder
     {
         DB::table('entities')->insert([
             [
-                'title'=>'GI AREC',
-                'sigle'=>'GI-AREC',
-                'logo'=>'arec_logo.png',
+                'title'=>'EMPOWERMENT AND STRATEGIES FOR DEVELOPMENT',
+                'sigle'=>'ESD',
+                'logo'=>'esd_logo.png',
                 // 'logo'=>'bfc_logo.png',
             ],
             // [
